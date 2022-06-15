@@ -14,3 +14,4 @@ else
 	echo "$a is odd" >>odd
 fi
   done
+fi
